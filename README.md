@@ -1,4 +1,4 @@
-## Oi eu sou o Gabriel Rebechi!
+## Oi pessoal, eu sou o Gabriel Rebechi!
 
 
 Além de um entusiasta da tecnologia também estou me aventurando pelo mundo da programação enquanto curso Análise e Desenvolvimento de Sistemas.
