@@ -1,5 +1,13 @@
-## Oi eu sou o Gabriel Rebechi, entusiasta de tecnologia e programação!
+## E aí, pessoal! Eu sou o Gabriel Rebechi, entusiasta de tecnologia e programação!
 
+
+Além de um entusiasta da tecnologia também estou me aventurando pelo mundo da programação enquanto curso Análise e Desenvolvimento de Sistemas.
+
+Já dei meus primeiros passos em plataformas low code, como FlutterFlow e AppSheet, mas recentemente me apaixonei pelo Python e estou me divertindo muito explorando essa linguagem incrível.
+
+Estou mergulhando de cabeça nos estudos de Python, experimentando diferentes projetos e aprendendo algo novo a cada dia. Meu objetivo é expandir meus conhecimentos e compartilhar minhas experiências com vocês.
+
+Embora meu perfil no GitHub ainda esteja começando, estou animado para preenchê-lo com projetos legais e contribuições interessantes. Mal posso esperar para ver o que o futuro reserva!
 
 
 <div style="display: inline_block"><br>
