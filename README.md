@@ -9,7 +9,15 @@ Estou mergulhando de cabeça nos estudos de Python, experimentando diferentes pr
 
 Embora meu perfil no GitHub ainda esteja começando, estou animado para preenchê-lo com projetos legais e contribuições interessantes. Mal posso esperar para ver o que o futuro reserva!
 
-
+<!--github stats-->
+<div align="center" style="display: inline">
+   <a href="https://github.com/grebechi">
+   <div style="display: inline_block">
+      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=grebechi&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
+      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grebechi&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
+   </div>
+</div>
+     
 <div style="display: inline_block"><br>
   <img align="center" alt="gab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
