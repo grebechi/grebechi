@@ -13,8 +13,8 @@ Embora meu perfil no GitHub ainda esteja come√ßando, estou animado para preench√
 <div align="center" style="display: inline">
    <a href="https://github.com/grebechi">
    <div style="display: inline_block">
-      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=grebechi&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&border_color=0767FF&title_color=5aa2c9&text_color=d1c89a&icon_color=5aa2c9"/>
-      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grebechi&layout=compact&langs_count=7&bg_color=000000&border_color=0767FF&title_color=5aa2c9&text_color=d5e5e4&icon_color=5aa2c9"/>
+      <img height="125em" src="https://github-readme-stats.vercel.app/api?username=grebechi&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&border_color=0767FF&title_color=5aa2c9&text_color=d1c89a&icon_color=5aa2c9"/>
+      <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grebechi&layout=compact&langs_count=7&bg_color=000000&border_color=0767FF&title_color=5aa2c9&text_color=d5e5e4&icon_color=5aa2c9"/>
    </div>
 </div>
      
