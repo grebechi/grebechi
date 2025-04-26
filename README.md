@@ -1,15 +1,15 @@
 ## Oi pessoal, eu sou o Gabriel Rebechi!
 
 
-Além de um entusiasta da tecnologia também estou me aventurando pelo mundo da programação enquanto curso Análise e Desenvolvimento de Sistemas.
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estagiário de desenvolvimento fullstack na DocService, onde estou tendo a oportunidade de aplicar e aprofundar meus conhecimentos em Java, Android e integrações com banco de dados.
 
-Já dei meus primeiros passos em plataformas low code, como FlutterFlow e AppSheet, mas recentemente me apaixonei pelo JavaScript e estou me divertindo muito explorando essa linguagem incrível.
+Além da rotina de estágio, sigo ampliando meu aprendizado através de trilhas de estudos na Alura, focadas em desenvolvimento Android e tecnologias que utilizo no dia a dia de trabalho.
 
-Estou mergulhando de cabeça nos estudos de Node.js, experimentando diferentes projetos e aprendendo algo novo a cada dia. Meu objetivo é expandir meus conhecimentos e compartilhar minhas experiências com vocês.
+Comecei minha jornada na tecnologia explorando plataformas low-code, como FlutterFlow e AppSheet, e com o tempo me apaixonei pela programação, especialmente pelo universo JavaScript e Node.js, onde sigo praticando e me divertindo em projetos paralelos.
 
-Por aqui você vai ver alguns projetos da faculdade feitos em C, JAVA e Flutter também.
+Aqui no GitHub você vai encontrar projetos acadêmicos em C, Java e Flutter, além de novos repositórios que em breve irão trazer projetos Android e aplicações desenvolvidas durante meus treinamentos e experiências no estágio.
 
-Embora meu perfil no GitHub ainda esteja começando, estou animado para preenchê-lo com projetos legais e contribuições interessantes. Mal posso esperar para ver o que o futuro reserva!
+Estou muito animado para compartilhar minha evolução e novos aprendizados por aqui. Vamos juntos!
 
 <!--github stats-->
 <div align="center" style="display: inline">
