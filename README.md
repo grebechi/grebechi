@@ -1,13 +1,16 @@
 ## Oi pessoal, eu sou o Gabriel Rebechi!
 
+Sou estudante de Análise e Desenvolvimento de Sistemas pelo IFRS e desenvolvedor com foco no ecossistema Java, atuando principalmente no desenvolvimento backend.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estagiário de desenvolvimento fullstack na DocService, onde estou tendo a oportunidade de aplicar e aprofundar meus conhecimentos em Java, Android e integrações com banco de dados.
+Atualmente sou coordenador da RSJUG (Grupo de Usuários Java do Rio Grande do Sul), contribuindo com a comunidade Java através da organização de eventos, compartilhamento de conhecimento e fortalecimento do ecossistema de desenvolvedores.
 
-Além da rotina de estágio, sigo ampliando meu aprendizado através de trilhas de estudos na Alura, focadas em desenvolvimento Android e tecnologias que utilizo no dia a dia de trabalho.
+Minha stack principal é Java, com forte interesse no desenvolvimento de aplicações utilizando Spring, especialmente voltadas para arquiteturas modernas como microsserviços.
 
-Comecei minha jornada na tecnologia explorando plataformas low-code, como FlutterFlow e AppSheet, e com o tempo me apaixonei pela programação, especialmente pelo universo JavaScript e Node.js, onde sigo praticando e me divertindo em projetos paralelos.
+Durante a graduação, tenho contato frequente com C, Java, Flutter, JavaScript e Python o que despertou meu interesse por processamento de dados e fundamentos de machine learning, ampliando minha visão além do backend tradicional.
 
-Aqui no GitHub você vai encontrar projetos acadêmicos em C, Java e Flutter, além de novos repositórios que em breve irão trazer projetos Android e aplicações desenvolvidas durante meus treinamentos e experiências no estágio.
+Minha jornada começou com plataformas low-code como FlutterFlow e AppSheet onde atuei como desenvolvedor de aplicações simples utilizando essas tecnologias, mas foi na programação que encontrei minha principal área de interesse. Hoje, sigo evoluindo com foco em boas práticas, arquitetura de software e construção de sistemas eficientes, além de explorar JavaScript e Node.js em projetos paralelos.
+
+Aqui no GitHub você vai encontrar projetos acadêmicos e pessoais que refletem minha evolução, com foco crescente em Java e Spring, além de estudos práticos em microsserviços e experimentações com dados.
 
 Estou muito animado para compartilhar minha evolução e novos aprendizados por aqui. Vamos juntos!
 
