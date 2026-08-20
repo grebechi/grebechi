@@ -10,6 +10,8 @@ Durante a graduação, tenho contato frequente com C, Java, Flutter, JavaScript 
 
 Minha jornada começou com plataformas low-code como FlutterFlow e AppSheet onde atuei como desenvolvedor de aplicações simples utilizando essas tecnologias, mas foi na programação que encontrei minha principal área de interesse. Hoje, sigo evoluindo com foco em boas práticas, arquitetura de software e construção de sistemas eficientes, além de explorar JavaScript e Node.js em projetos paralelos.
 
+Estou participando de um programa de capacitação profissional chamado Acelera ZG (ACZG10) e provavelmente vocês irão encontrar muitos repositórios relacionados aos projetos desenvolvidos nas trilhas de aprendizado da empresa.
+
 Aqui no GitHub você vai encontrar projetos acadêmicos e pessoais que refletem minha evolução, com foco crescente em Java e Spring, além de estudos práticos em microsserviços e experimentações com dados.
 
 Estou muito animado para compartilhar minha evolução e novos aprendizados por aqui. Vamos juntos!
